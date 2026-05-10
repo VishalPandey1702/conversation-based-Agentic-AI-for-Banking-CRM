@@ -1,5 +1,7 @@
 # Agentic Banking CRM — Conversation-Based Multi-Agent System
 
+**Demo video:** [YouTube walkthrough (5–10 min)](https://www.youtube.com/watch?v=BSymu5sQr2A) — `https://www.youtube.com/watch?v=BSymu5sQr2A`
+
 > A production-style **Agentic AI** system that lets a Relationship Manager (RM) **talk** to a banking assistant. One conversational orchestrator dynamically calls specialist agents (Discovery, Scoring, Recommendation, Outreach, Campaign) as tools — selecting, sequencing, and looping over them via Azure OpenAI tool calling — and explains every decision it makes.
 >
 > **Stack:** Python 3.10 · Azure OpenAI (tool calling) · LangGraph · MCP server (in-process, RBAC + audit) · FastAPI · SQLite + SQLAlchemy · Streamlit · Pydantic.

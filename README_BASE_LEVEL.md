@@ -1,5 +1,7 @@
 # Agentic Banking CRM
 
+**Demo video:** [YouTube walkthrough (5–10 min)](https://www.youtube.com/watch?v=BSymu5sQr2A) — `https://www.youtube.com/watch?v=BSymu5sQr2A`
+
 > Conversation-based Agentic AI for Banking CRM — built with **Azure OpenAI tool calling**, **LangGraph**, **MCP server architecture**, **FastAPI**, **SQLite**, and **Streamlit**.
 
 A production-style, modular system that lets a Relationship Manager (RM) **talk** to an AI orchestrator. The orchestrator dynamically picks specialist agents (Discovery, Scoring, Recommendation, Outreach, Campaign) as tools to fulfill the RM's request — not a fixed pipeline.
